@@ -1,0 +1,2 @@
+C:\Users\Muhinga\Documents\Projects\ionicMyTabs\platforms\android\build\intermediates\classes\debug
+C:\Users\Muhinga\Documents\Projects\ionicMyTabs\platforms\android\build\intermediates\pre-dexed\debug\classes-a216dd17afbf81358949d688d481926d2b721dee.jar
